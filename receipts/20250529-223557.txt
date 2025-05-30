@@ -1,0 +1,12 @@
+=== Receipt ===
+Sandwiches:
+  - Sandwish [size:FOUR_INCH, bread:WHITE, toppings:
+    - turkey (Extra) [MEAT]
+    - american (Extra) [CHEESE]
+    - lettuce [REGULAR]
+, price=$4.50]
+Drinks:
+  (none)
+Chips:
+  (none)
+Total Price: $4.50
